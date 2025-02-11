@@ -1,3 +1,14 @@
+# Tutorial
+- https://help.tableau.com/current/pro/desktop/en-us/parameters_create.htm
+- https://help.tableau.com/current/pro/desktop/en-us/calcs_add_calculated_column.htm
+- https://help.tableau.com/current/pro/desktop/en-us/calculating_z_scores.htm
+- https://help.tableau.com/current/pro/desktop/en-us/kpi.htm
+- https://help.tableau.com/current/pro/desktop/en-us/pareto.htm
+- https://help.tableau.com/current/pro/desktop/en-us/population_pyramid.htm
+- https://help.tableau.com/current/pro/desktop/en-us/co_occurrence.htm
+
+
+
 #เตรียมข้อมูล:
 
 ## ดึงข้อมูลจาก World Bank
